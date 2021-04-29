@@ -1,0 +1,7 @@
+ContentController:
+  extensions:
+    - LightGalleryControllerExtension
+
+SiteConfig:
+  extensions:
+    - LightGalleryConfig

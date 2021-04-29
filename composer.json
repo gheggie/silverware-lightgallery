@@ -1,0 +1,24 @@
+{
+    "name": "praxisnetau/silverware-lightgallery",
+    "description": "lightGallery module for SilverWare.",
+    "type": "silverstripe-module",
+    "homepage": "https://bitbucket.org/praxisnetau/silverware-lightgallery",
+    "keywords": ["silverstripe", "silverware", "lightgallery"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Colin Tucker",
+            "role": "Developer",
+            "email": "colin@praxis.net.au",
+            "homepage": "http://www.praxis.net.au"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3,<7",
+        "praxisnetau/silverware": "~1.0"
+    },
+    "extra": {
+        "installer-name": "silverware-lightgallery"
+    },
+    "target-dir": "silverware-lightgallery"
+}
